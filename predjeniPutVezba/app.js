@@ -31,5 +31,6 @@ document.getElementById("demo").style.cssText = `
   margin-top: 10px; 
   text-align: center;
   color: #f14f12;
+  font-size: 42px;
 `;
 // DONT CHANGE TEMPLATE LITERALS OR PROGRAM WONT WORK PROPERLY

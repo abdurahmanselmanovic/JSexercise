@@ -32,3 +32,4 @@ document.getElementById("demo").style.cssText = `
   text-align: center;
   color: #f14f12;
 `;
+// DONT CHANGE TEMPLATE LITERALS OR PROGRAM WONT WORK PROPERLY
